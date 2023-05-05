@@ -141,6 +141,26 @@ Contributed by: [@xutongbao](http://chat.xutongbao.top)
 <img width="80" src="./images/xutongbao/008_6.jpg">
 </div>
 
+## [009]a beautiful woma, <lora:nwsjmajic-10:0.6>
+
+Contributed by: [@xutongbao](http://chat.xutongbao.top)
+
+> <lora:nwsjmajic-10:0.6>,a beautiful woman,( an adult vibrator  in her hand:1.5),chinese,sexy, wearing white bikini, smile, (lie in bed:1.3),open eyes,natural skin texture, 24mm, 4k textures, soft cinematic light, adobe lightroom, photolab, intricate, elegant, highly detailed, sharp focus (soothing tones:1.25), (hdr:1.25), dramatic, (intricate details:1.14), (hyperrealistic 3d render:1.16), (filmic:0.55), (rutkowski:1.1), (faded:1.3),((((cinematic look)))), insane details, low contrast, exposure blend,(full_body:1.4), 
+
+> (low quality:1.3), (worst quality:1.3),(monochrome:0.8),(deformed:1.3),(malformed hands:1.4),(poorly drawn hands:1.4),(mutated fingers:1.4),(bad anatomy:1.3),(extra limbs:1.35),(poorly drawn face:1.4)  (bad_prompt_version2:1.1) (bad-hands-5:1.2) (verybadimagenegative_v1.3:1.2),(deformed, distorted, disfigured:1.3),(unclear eyes:1.331), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation
+
+> Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 2517605322, Face restoration: CodeFormer, Size: 512x910, Model hash: b4391b7978, Model: deliberate_v2
+
+
+
+<img width="300" src="./images/xutongbao/009_5.jpg">
+<div>
+<img width="80" src="./images/xutongbao/009_2.jpg">
+<img width="80" src="./images/xutongbao/009_3.jpg">
+<img width="80" src="./images/xutongbao/009_4.jpg">
+<img width="80" src="./images/xutongbao/009_1.jpg">
+</div>
+
 
 
 
